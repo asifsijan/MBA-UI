@@ -1,6 +1,10 @@
 
 body{
- 	background-color: #F2F2F2;
+ 	background-color: #fcf8e8;
+}
+
+table, td, tbody, tr {
+  border: 1px solid black;
 }
 
 
@@ -10,11 +14,11 @@ a {
 }
 h1{
 color: black;
-opacity: 0.7;
+opacity: 1;
 }
 
 .card{
-	color: white;
+	background-color: #ecb390;
 	opacity: 1;
 }
 
